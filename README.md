@@ -1,4 +1,7 @@
 # A12-Rainfall-Prediction-Using-Arima-and-Linear-Regression
+
+# PROJECT-TITLE
+
 Rainfall Prediction Using Arima and Linear Regression
 
 # ABOUT-THE-PROJECT
